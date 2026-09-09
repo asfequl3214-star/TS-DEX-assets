@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+	<meta name="robots" content="noindex" />
+    <title>Optus Sport Has Closed</title>
+    <style>
+      @font-face {
+        font-family: 'MarkPro';
+        src: url('https://db.onlinewebfonts.com/t/7200c6dd8ac604abe09f5159e53a40c0.eot');
+        src:
+          url('https://db.onlinewebfonts.com/t/7200c6dd8ac604abe09f5159e53a40c0.eot?#iefix')
+            format('embedded-opentype'),
+          url('https://db.onlinewebfonts.com/t/7200c6dd8ac604abe09f5159e53a40c0.woff')
+            format('woff'),
+          url('https://db.onlinewebfonts.com/t/7200c6dd8ac604abe09f5159e53a40c0.woff2')
+            format('woff2'),
+          url('https://db.onlinewebfonts.com/t/7200c6dd8ac604abe09f5159e53a40c0.ttf')
+            format('truetype'),
+          url('https://db.onlinewebfonts.com/t/7200c6dd8ac604abe09f5159e53a40c0.svg#Mark Pro')
+            format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: 'MarkProBold';
+        src: url('https://db.onlinewebfonts.com/t/01d273202731e44f0f1187f3afcaf156.eot');
+        src:
+          url('https://db.onlinewebfonts.com/t/01d273202731e44f0f1187f3afcaf156.eot?#iefix')
+            format('embedded-opentype'),
+          url('https://db.onlinewebfonts.com/t/01d273202731e44f0f1187f3afcaf156.woff')
+            format('woff'),
+          url('https://db.onlinewebfonts.com/t/01d273202731e44f0f1187f3afcaf156.woff2')
+            format('woff2'),
+          url('https://db.onlinewebfonts.com/t/01d273202731e44f0f1187f3afcaf156.ttf')
+            format('truetype'),
+          url('https://db.onlinewebfonts.com/t/01d273202731e44f0f1187f3afcaf156.svg#Mark Pro Bold')
+            format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: 'MarkProHeavy';
+        src: url('https://db.onlinewebfonts.com/t/72112afab388987941068c3f7a741a53.eot');
+        src:
+          url('https://db.onlinewebfonts.com/t/72112afab388987941068c3f7a741a53.eot?#iefix')
+            format('embedded-opentype'),
+          url('https://db.onlinewebfonts.com/t/72112afab388987941068c3f7a741a53.woff')
+            format('woff'),
+          url('https://db.onlinewebfonts.com/t/72112afab388987941068c3f7a741a53.woff2')
+            format('woff2'),
+          url('https://db.onlinewebfonts.com/t/72112afab388987941068c3f7a741a53.ttf')
+            format('truetype'),
+          url('https://db.onlinewebfonts.com/t/72112afab388987941068c3f7a741a53.svg#Mark Pro Heavy')
+            format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+
+      html,
+      body {
+        background: #000;
+        color: #fff;
+        font-family: 'MarkPro', sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        min-height: 100vh;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        width: 100%;
+        padding: 0 16px;
+      }
+      .container {
+        max-width: 450px;
+        width: 100%;
+        margin: 0 auto;
+      }
+      .logo {
+        margin-bottom: 8px;
+      }
+      h1 {
+        font-family: 'MarkProHeavy', sans-serif;
+        font-size: 1.8rem;
+        font-weight: 700;
+        margin-bottom: 18px;
+        margin-top: 0;
+        letter-spacing: 0.5px;
+      }
+      .desc {
+        font-size: 1rem;
+        margin-bottom: 22px;
+        line-height: 1.6;
+        color: #fff;
+      }
+      a {
+        color: #2de1fc;
+        font-family: 'MarkProHeavy', sans-serif;
+        text-decoration: underline;
+        transition: color 0.2s;
+      }
+      a:hover {
+        color: #00b8d9;
+      }
+      @media (min-width: 650px) {
+        .container {
+          max-width: 650px;
+        }
+        h1 {
+          font-size: 2rem;
+        }
+        .desc {
+          font-size: 1.2rem;
+        }
+      }
+      @media (min-width: 1000px) {
+        .container {
+          max-width: 900px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="logo">
+        <img
+          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiI+CiAgICA8ZGVmcz4KICAgICAgICA8cGF0aCBpZD0iYSIgZD0iTTYuNDEgMGgxMS4xOGMyLjIzIDAgMy4wMzcuMjMyIDMuODUyLjY2OGE0LjU0MyA0LjU0MyAwIDAgMSAxLjg5IDEuODljLjQzNi44MTUuNjY4IDEuNjIzLjY2OCAzLjg1MnYxMS4xOGMwIDIuMjMtLjIzMiAzLjAzNy0uNjY4IDMuODUyYTQuNTQzIDQuNTQzIDAgMCAxLTEuODkgMS44OWMtLjgxNS40MzYtMS42MjMuNjY4LTMuODUyLjY2OEg2LjQxYy0yLjIzIDAtMy4wMzctLjIzMi0zLjg1Mi0uNjY4YTQuNTQzIDQuNTQzIDAgMCAxLTEuODktMS44OUMuMjMyIDIwLjYyNyAwIDE5LjgyIDAgMTcuNTlWNi40MWMwLTIuMjMuMjMyLTMuMDM3LjY2OC0zLjg1MmE0LjU0MyA0LjU0MyAwIDAgMSAxLjg5LTEuODlDMy4zNzMuMjMyIDQuMTggMCA2LjQxIDB6Ii8+CiAgICA8L2RlZnM+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik0wIDBoMzJ2MzJIMHoiLz4KICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0IDQpIj4KICAgICAgICAgICAgPG1hc2sgaWQ9ImIiIGZpbGw9IiNmZmYiPgogICAgICAgICAgICAgICAgPHVzZSB4bGluazpocmVmPSIjYSIvPgogICAgICAgICAgICA8L21hc2s+CiAgICAgICAgICAgIDxwYXRoIHN0cm9rZT0iIzk3OTc5NyIgZD0iTTYuNDEuNWMtMS45NTcgMC0yLjc3My4xNTgtMy42MTYuNjA5YTQuMDQzIDQuMDQzIDAgMCAwLTEuNjg1IDEuNjg1Qy42NTggMy42MzcuNSA0LjQ1NC41IDYuNDF2MTEuMThjMCAxLjk1Ny4xNTggMi43NzMuNjA5IDMuNjE2LjM4OS43MjguOTU3IDEuMjk2IDEuNjg1IDEuNjg1Ljg0My40NTEgMS42Ni42MDkgMy42MTYuNjA5aDExLjE4YzEuOTU3IDAgMi43NzMtLjE1OCAzLjYxNi0uNjA5YTQuMDQzIDQuMDQzIDAgMCAwIDEuNjg1LTEuNjg1Yy40NTEtLjg0My42MDktMS42Ni42MDktMy42MTZWNi40MWMwLTEuOTU3LS4xNTgtMi43NzMtLjYwOS0zLjYxNmE0LjA0MyA0LjA0MyAwIDAgMC0xLjY4NS0xLjY4NUMyMC4zNjMuNjU4IDE5LjU0Ni41IDE3LjU5LjVINi40MXoiLz4KICAgICAgICAgICAgPGcgbWFzaz0idXJsKCNiKSI+CiAgICAgICAgICAgICAgICA8cGF0aCBmaWxsPSIjMDVDRUREIiBkPSJNMCAwaDI0djI0SDB6Ii8+CiAgICAgICAgICAgICAgICA8cGF0aCBmaWxsPSIjMTcyNjU5IiBkPSJNMCAxMmgyNHYxMkgweiIvPgogICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDxnIGZpbGw9IiMxNzI2NTkiIG1hc2s9InVybCgjYikiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTQuNDI5IDQuNGMtLjg1NiAwLTEuNTMuNDE3LTEuODQgMS4wNi0uMTI3LjI2My0uMTkxLjU1My0uMTg5Ljg0NiAwIDEuMS44MzggMS45MDUgMi4wMjkgMS45MDUuODU1IDAgMS41MjktLjQxNiAxLjg0LTEuMDU5LjEyNi0uMjY0LjE5LS41NTMuMTg4LS44NDYgMC0xLjEtLjgzOC0xLjkwNi0yLjAyOC0xLjkwNnptMCAyLjk3Yy0uNjE4IDAtMS4wNTktLjQzNC0xLjA1OS0xLjA2NC0uMDAyLS4xODMuMDQtLjM2My4xMjEtLjUyNy4xNzItLjMzMy41MTMtLjUzOC45MzgtLjUzOC42MTcgMCAxLjA1OC40MzQgMS4wNTggMS4wNjUuMDAyLjE4Mi0uMDQuMzYzLS4xMjEuNTI2LS4xNzIuMzMzLS41MTMuNTM5LS45MzcuNTM5em00LjMyLTIuODk2SDcuMjE3YS4xMTIuMTEyIDAgMCAwLS4xMTMuMDcuMTQ2LjE0NiAwIDAgMC0uMDEuMDUydjMuMzljMCAuMDg4LjAxNS4xMzIuMTA5LjE2Mi4wNzMuMDI0LjE5Ni4wNDQuMzU3LjA0NC4xNjIgMCAuMjg0LS4wMi4zNTgtLjA0NGEuMTQ1LjE0NSAwIDAgMCAuMDg5LS4wNTkuMTQ5LjE0OSAwIDAgMCAuMDE3LS4wNjZ2LS4wMDdsLjAwMi0uMDN2LS45MzhoLjczNGMuNjU3IDAgMS4xMDMtLjI0NCAxLjMxOC0uNjQ1LjA5OC0uMTgyLjE0Ny0uMzk3LjE0Ny0uNjM1IDAtLjc4MS0uNTEtMS4yOTQtMS40NzQtMS4yOTR6bS0uMDE0IDEuNzk4aC0uNzFWNS4yNjVoLjcxYy4zMzMgMCAuNTQ0LjE3MS41NDQuNTAzYS41NDUuNTQ1IDAgMCAxLS4wNi4yNmMtLjA4NC4xNTgtLjI1NS4yNDQtLjQ4NC4yNDR6bTQuODctMS43OThoLTIuODcxYy0uMDgyIDAtLjExOC4wMjYtLjE0Mi4wODFhLjMxNy4zMTcgMCAwIDAtLjAxLjAyNiAxLjE5MiAxLjE5MiAwIDAgMCAwIC42MDZjLjAyNS4wNzMuMDU5LjEwNy4xNTIuMTA3aC45N3YyLjY5M2MwIC4wODcuMDE1LjEzMS4xMDguMTYuMDczLjAyNS4xOTYuMDQ1LjM1Ny4wNDUuMTYyIDAgLjI4NC0uMDIuMzU4LS4wNDRhLjE0NS4xNDUgMCAwIDAgLjA4OS0uMDU5LjE5OS4xOTkgMCAwIDAgLjAxOS0uMTAyVjUuMjk0aC45N2MuMDgxIDAgLjExOC0uMDI2LjE0Mi0uMDgxYS4zMTguMzE4IDAgMCAwIC4wMS0uMDI2IDEuMTkgMS4xOSAwIDAgMCAwLS42MDZjLS4wMjUtLjA3My0uMDU5LS4xMDctLjE1Mi0uMTA3em0zLjk3OC0uMDE1YTEuMTY2IDEuMTY2IDAgMCAwLS4zNTMtLjA0NGMtLjE2MSAwLS4yNzkuMDItLjM1Mi4wNDRhLjE0NS4xNDUgMCAwIDAtLjA5LjA1OGwtLjAwMS4wMDVhLjEwOS4xMDkgMCAwIDAtLjAwOC4wMTYuMjYuMjYgMCAwIDAtLjAxLjA4MnYyLjAwOGEuODQyLjg0MiAwIDAgMS0uMDg2LjM5NWMtLjEyMy4yMzUtLjM2OC4zNDgtLjY3OC4zNDgtLjQ1IDAtLjc0NC0uMjQtLjc0NC0uNzQzVjQuNjJjMC0uMDg4LS4wMTUtLjEzMi0uMTA4LS4xNjFhMS4yMDQgMS4yMDQgMCAwIDAtLjM1OC0uMDQ0Yy0uMTYxIDAtLjI4NC4wMi0uMzU3LjA0NC0uMDQ3LjAxNC0uMDc0LjAzMy0uMDkuMDU4di4wMDVhLjEwOC4xMDggMCAwIDAtLjAwOC4wMTYuMjYuMjYgMCAwIDAtLjAxLjA4MnYyLjAzN2MwIDEuMDA3LjYzMiAxLjU1NCAxLjY3NSAxLjU1NC43MjEgMCAxLjI0OC0uMjU4IDEuNTA2LS43NDcuMTE4LS4yMjIuMTgtLjQ5Mi4xOC0uODA3VjQuNjJjMC0uMDg4LS4wMTUtLjEzMi0uMTA4LS4xNjF6bTIuNzQ0IDEuNDM2bC0uMTY3LS4wMjljLS42MjItLjEwNy0uNzg5LS4xODYtLjc4OS0uMzU3IDAtLjAzNi4wMDgtLjA3LjAyNC0uMTAzLjA2OS0uMTM1LjI4MS0uMjEuNjA0LS4yMS4zMTggMCAuNjI3LjA3Ljk1LjIxNi4wNzguMDM0LjEyNy4wMzkuMTg2LS4wMi4wNjEtLjA2MS4xNC0uMTgxLjIwMi0uMzA2LjAzNi0uMDcuMDY1LS4xNDIuMDg3LS4yMTcuMDI1LS4wODgtLjAwNS0uMTQxLS4wNzMtLjE3Ni0uMzkyLS4xOTUtLjg3Ny0uMjkzLTEuMzY3LS4yOTMtLjc0MiAwLTEuMjcuMjQ4LTEuNDkzLjY3OGExLjEgMS4xIDAgMCAwLS4xMi40OWMtLjAxNC42NS40MzIuOTc3IDEuMjI2IDEuMWwuMTkuMDI5Yy42MDMuMDkyLjc3NS4xNjYuNzc1LjM1NmEuMjcuMjcgMCAwIDEtLjAyNS4xMTVjLS4wNy4xNTItLjI4OC4yNDItLjYyNy4yNDItLjM4MiAwLS43NjktLjEyNy0xLjIxNS0uMzYyLS4wODMtLjA0NC0uMTIyLS4wMzktLjE4Ni4wMjVhMS4yNTYgMS4yNTYgMCAwIDAtLjE5OC4zMWMtLjAzNS4wNy0uMDY0LjE0Mi0uMDg2LjIxOC0uMDI0LjA4OC4wMDUuMTM3LjA2OS4xNzYuNDc1LjI5MyAxLjA5Mi40MzQgMS42NC40MzQuNzIxIDAgMS4yODQtLjI2NiAxLjUyLS43MzEuMDgyLS4xNjQuMTI0LS4zNDYuMTIyLS41MyAwLS42LS40MzYtLjkxMy0xLjI1LTEuMDU1eiIvPgogICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDxnIGZpbGw9IiNGRkYiIG1hc2s9InVybCgjYikiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTE1LjM3MiAxNy45NjZoLjJsMS4xOSAxLjU2NWguOTI2bC0xLjIzNy0xLjU3NWMuNzItLjA3MSAxLjE3OS0uNTA4IDEuMTc5LTEuMTQgMC0uNzQtLjQ5NS0xLjE0Ny0xLjM5NC0xLjE0N0gxNC42M3YzLjg2MmguNzQ0di0xLjU2NXptMC0xLjU5MmguODQ4Yy41NjkgMCAuNjQyLjIzNi42NDIuNDQyIDAgLjIxNi0uMDczLjQ2NC0uNjQyLjQ2NGgtLjg0N3YtLjkwNnptMy45ODUgMy4xNTdoLjc0M3YtMy4xNTJoMS4yMDl2LS43MWgtMy4xNnYuNzFoMS4yMDh2My4xNTJ6bS03LjMzNC4wNjljMS4xNzMgMCAyLjAyNS0uODQxIDIuMDI1LTJzLS44NTItMi0yLjAyNS0yYy0xLjE3NSAwLTIuMDI3Ljg0MS0yLjAyNyAycy44NTIgMiAyLjAyNyAyem0wLTMuMjgyYy43MzcgMCAxLjI1Mi41MjcgMS4yNTIgMS4yODJzLS41MTUgMS4yODItMS4yNTIgMS4yODJjLS43MzggMC0xLjI1My0uNTI3LTEuMjUzLTEuMjgycy41MTUtMS4yODIgMS4yNTMtMS4yODJ6bS03LjYzIDIuNTdjLS40MDMgMC0uODc2LS4xNjUtMS4xMjQtLjM5MmwtLjA2LS4wNTQtLjQwOS41OTcuMDQ4LjA0MmMuMzY1LjMxMy45NzMuNTE2IDEuNTQ4LjUxNi45MjMgMCAxLjU2Ny0uNTEgMS41NjctMS4yNDIgMC0uNDItLjIyLS45NTEtMS4yNjQtMS4wOTNsLS4yNTktLjAzNWMtLjUxNS0uMDczLS43MTUtLjE5My0uNzE1LS40MjcgMC0uMjk0LjMwMi0uNDg0Ljc3LS40ODQuMzUgMCAuNjkuMTAzIDEuMDEuMzA3bC4wNi4wMzguMzgxLS42MDQtLjA1OC0uMDM4YTIuNDM0IDIuNDM0IDAgMCAwLTEuMzg4LS40MTNjLS45MjMgMC0xLjU0My40OTUtMS41NDMgMS4yMzEgMCAuNjA0LjQxNS45OTQgMS4xNjggMS4wOTlsLjI5LjA0Yy41NDcuMDc0Ljc4LjIwMy43OC40MzIgMCAuMjgyLS4zMy40OC0uODAyLjQ4em0yLjkzLS44MTlIOC4xYy44NzIgMCAxLjM5My0uNDQ4IDEuMzkzLTEuMiAwLS43NTEtLjUyLTEuMi0xLjM5My0xLjJINi41OHYzLjg2MmguNzQzdi0xLjQ2MnptMC0xLjY5MmguNzZjLjQ1IDAgLjY0MS4xNDcuNjQxLjQ5MiAwIC4zNDYtLjE5MS40OTMtLjY0MS40OTNoLS43NnYtLjk4NXoiLz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg=="
+          alt="Optus Sport Logo"
+          width="180"
+          height="180"
+        />
+      </div>
+      <h1>Optus Sport Has Closed</h1>
+      <div class="desc">
+        After nine incredible years, Optus Sport has officially switched off.
+        We're truly grateful for your support and passion for the world's
+        greatest game.
+      </div>
+      <div class="desc">
+        From now on, you can continue watching the Premier League, Emirates FA
+        Cup, and more on Stan Sport.
+      </div>
+      <div class="desc">
+        Head to
+        <a href="https://www.stan.com.au/optussportonstan">Stan.com.au</a>
+        to subscribe. Need help? Visit our
+        <a href="https://www.optus.com.au/support/entertainment/optus-sport-hub"
+          >FAQs</a
+        >.
+      </div>
+      <div class="desc">
+        Thank you for being part of the Optus Sport journey.
+      </div>
+    </div>
+  </body>
+</html>
